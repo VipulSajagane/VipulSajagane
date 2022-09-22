@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hey there, I am Sanket Rasal <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hey there, I am Vipul Sajagane <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -40,7 +40,6 @@
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
-		
 		<td>HTML5</td>
 		<td>CSS</td>
 	</tr>
