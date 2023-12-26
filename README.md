@@ -72,5 +72,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vipul-sajagane-963693183/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:vipulsajagane1947@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/vip_0904"><img src="/.github/icons/instagram-icon.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/vipul_sajagane"><img src="/.github/icons/instagram-icon.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
